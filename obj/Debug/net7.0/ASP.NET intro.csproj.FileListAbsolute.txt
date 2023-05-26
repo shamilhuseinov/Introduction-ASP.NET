@@ -1,0 +1,28 @@
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.csproj.AssemblyReference.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.AssemblyInfoInputs.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.AssemblyInfo.cs
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.MvcApplicationPartsAssemblyInfo.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.RazorAssemblyInfo.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.RazorAssemblyInfo.cs
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/appsettings.Development.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/appsettings.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/ASP.NET intro
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/ASP.NET intro.deps.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/ASP.NET intro.runtimeconfig.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/ASP.NET intro.dll
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/bin/Debug/net7.0/ASP.NET intro.pdb
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets/msbuild.ASP.NET intro.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets/msbuild.build.ASP.NET intro.props
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NET intro.props
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ASP.NET intro.props
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets.build.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/staticwebassets.development.json
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/scopedcss/bundle/ASP.NET intro.styles.css
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.dll
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/refint/ASP.NET intro.dll
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.pdb
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ASP.NET intro.genruntimeconfig.cache
+/Users/samil/Projects/ASP.NET intro/ASP.NET intro/obj/Debug/net7.0/ref/ASP.NET intro.dll
